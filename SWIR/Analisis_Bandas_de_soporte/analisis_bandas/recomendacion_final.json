@@ -1,0 +1,253 @@
+{
+  "pseudo_rgb_offsets": [
+    11,
+    2,
+    -5
+  ],
+  "offsets_soporte": [
+    -17,
+    -40
+  ],
+  "canales_finales_cnn": [
+    11,
+    2,
+    -5,
+    -17,
+    -40
+  ],
+  "canales_finales_str": [
+    "pico+11",
+    "pico+2",
+    "pico-5",
+    "pico-17",
+    "pico-40"
+  ],
+  "candidatos_seleccionados": [
+    {
+      "offset": -17,
+      "excluido_pseudo_rgb": false,
+      "score_global": 1.0437,
+      "score_ajustado": 0.9736,
+      "auc_medio": 0.7533,
+      "varianza_lotes": 0.072,
+      "estabilidad_por_lote": {
+        "2026_05_15": 0.7126,
+        "2026_05_19": 0.176
+      },
+      "n_good": 18,
+      "n_bad": 74,
+      "separabilidad": {
+        "mean": {
+          "cohen_d": 1.2846,
+          "fisher": 1.0031,
+          "auc": 0.8026,
+          "mean_good": 28.4562,
+          "mean_bad": 33.7945
+        },
+        "std": {
+          "cohen_d": 1.1631,
+          "fisher": 0.795,
+          "auc": 0.8063,
+          "mean_good": 11.4033,
+          "mean_bad": 13.4077
+        },
+        "p25": {
+          "cohen_d": 1.2084,
+          "fisher": 0.8649,
+          "auc": 0.795,
+          "mean_good": 18.6667,
+          "mean_bad": 21.8919
+        },
+        "p50": {
+          "cohen_d": 1.2804,
+          "fisher": 0.9658,
+          "auc": 0.8037,
+          "mean_good": 28.1111,
+          "mean_bad": 33.4865
+        },
+        "p75": {
+          "cohen_d": 1.3586,
+          "fisher": 1.1284,
+          "auc": 0.8198,
+          "mean_good": 36.5,
+          "mean_bad": 44.0541
+        },
+        "energy": {
+          "cohen_d": 1.2877,
+          "fisher": 1.0275,
+          "auc": 0.8003,
+          "mean_good": 951.4811,
+          "mean_bad": 1343.6034
+        },
+        "snr": {
+          "cohen_d": 0.2129,
+          "fisher": 0.019,
+          "auc": 0.5721,
+          "mean_good": 2.5029,
+          "mean_bad": 2.5248
+        },
+        "p10": {
+          "cohen_d": 1.3468,
+          "fisher": 1.1425,
+          "auc": 0.7928,
+          "mean_good": 13.5556,
+          "mean_bad": 16.3649
+        },
+        "p90": {
+          "cohen_d": 1.2732,
+          "fisher": 1.0007,
+          "auc": 0.8071,
+          "mean_good": 43.9444,
+          "mean_bad": 52.027
+        },
+        "cv": {
+          "cohen_d": 0.2419,
+          "fisher": 0.0244,
+          "auc": 0.5721,
+          "mean_good": 0.4006,
+          "mean_bad": 0.3966
+        },
+        "skewness": {
+          "cohen_d": 0.8281,
+          "fisher": 0.2702,
+          "auc": 0.6817,
+          "mean_good": 0.3545,
+          "mean_bad": 0.2649
+        },
+        "kurtosis": {
+          "cohen_d": 1.0389,
+          "fisher": 0.4247,
+          "auc": 0.7868,
+          "mean_good": -0.5478,
+          "mean_bad": -0.8038
+        }
+      },
+      "glcm_approx": {
+        "entropia_good": 4.4236,
+        "entropia_bad": 5.0441,
+        "contraste_good": 0.2889,
+        "contraste_bad": 0.45,
+        "diff_entropia": 0.6205
+      }
+    },
+    {
+      "offset": -40,
+      "excluido_pseudo_rgb": false,
+      "score_global": 0.9314,
+      "score_ajustado": 0.8257,
+      "auc_medio": 0.7396,
+      "varianza_lotes": 0.128,
+      "estabilidad_por_lote": {
+        "2026_05_15": 0.9034,
+        "2026_05_19": 0.1879
+      },
+      "n_good": 18,
+      "n_bad": 74,
+      "separabilidad": {
+        "mean": {
+          "cohen_d": 0.9946,
+          "fisher": 0.5485,
+          "auc": 0.753,
+          "mean_good": 20.102,
+          "mean_bad": 22.6752
+        },
+        "std": {
+          "cohen_d": 0.7619,
+          "fisher": 0.3059,
+          "auc": 0.72,
+          "mean_good": 7.2556,
+          "mean_bad": 7.8188
+        },
+        "p25": {
+          "cohen_d": 1.0419,
+          "fisher": 0.5846,
+          "auc": 0.7688,
+          "mean_good": 13.8889,
+          "mean_bad": 15.9865
+        },
+        "p50": {
+          "cohen_d": 0.9742,
+          "fisher": 0.4948,
+          "auc": 0.7624,
+          "mean_good": 19.6667,
+          "mean_bad": 22.2568
+        },
+        "p75": {
+          "cohen_d": 1.0287,
+          "fisher": 0.5931,
+          "auc": 0.7519,
+          "mean_good": 25.5,
+          "mean_bad": 28.7703
+        },
+        "energy": {
+          "cohen_d": 0.991,
+          "fisher": 0.5496,
+          "auc": 0.7492,
+          "mean_good": 462.4234,
+          "mean_bad": 582.7201
+        },
+        "snr": {
+          "cohen_d": 0.7062,
+          "fisher": 0.2185,
+          "auc": 0.6892,
+          "mean_good": 2.7744,
+          "mean_bad": 2.8979
+        },
+        "p10": {
+          "cohen_d": 1.0281,
+          "fisher": 0.5695,
+          "auc": 0.7695,
+          "mean_good": 10.8333,
+          "mean_bad": 12.7432
+        },
+        "p90": {
+          "cohen_d": 0.9791,
+          "fisher": 0.5499,
+          "auc": 0.747,
+          "mean_good": 30.1667,
+          "mean_bad": 33.5811
+        },
+        "cv": {
+          "cohen_d": 0.7117,
+          "fisher": 0.2188,
+          "auc": 0.6892,
+          "mean_good": 0.3625,
+          "mean_bad": 0.3463
+        },
+        "skewness": {
+          "cohen_d": 0.9097,
+          "fisher": 0.3305,
+          "auc": 0.6959,
+          "mean_good": 0.3386,
+          "mean_bad": 0.2556
+        },
+        "kurtosis": {
+          "cohen_d": 1.0493,
+          "fisher": 0.4473,
+          "auc": 0.7793,
+          "mean_good": -0.6616,
+          "mean_bad": -0.8381
+        }
+      },
+      "glcm_approx": {
+        "entropia_good": 4.1727,
+        "entropia_bad": 3.8847,
+        "contraste_good": 0.2665,
+        "contraste_bad": 0.4315,
+        "diff_entropia": 0.288
+      },
+      "corr_con_candidato_1": 0.817,
+      "max_corr_pseudo_rgb": 0.9383,
+      "score_penalizado": 0.051
+    }
+  ],
+  "criterios_aplicados": [
+    "Separabilidad good/bad: Cohen's d + Fisher + AUC",
+    "Estabilidad entre lotes: Cohen's d por lote, penalizaci\u00f3n por varianza",
+    "Exclusi\u00f3n zona pseudo-RGB: \u00b110 de [11, 2, -5]",
+    "Selecci\u00f3n secuencial: segundo candidato minimiza redundancia"
+  ],
+  "nota_background": "Background correction desactivada por especificaci\u00f3n aprobada: bajo normalizaci\u00f3n por_canal es invariante.",
+  "nota_revalidacion": "Revalidar que fondo OFF sigue siendo adecuado al incorporar lotes multi-d\u00eda/multi-sesi\u00f3n futuros.",
+  "timestamp": "2026-06-18T08:07:00"
+}

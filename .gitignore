@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+venv_mandarina/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db

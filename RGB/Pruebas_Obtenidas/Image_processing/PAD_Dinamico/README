@@ -1,0 +1,51 @@
+Fase de Pruebas – Problema de Clasificación Incorrecta
+Descripción del inconveniente
+Durante una etapa de pruebas, la red neuronal comenzó a clasificar todas las mandarinas como “malas”, independientemente de su estado real.
+
+Este comportamiento indicaba un problema en el pipeline de procesamiento previo a la inferencia.
+
+Hipótesis inicial
+Se planteó que el problema podría estar relacionado con el recorte de las imágenes:
+
+Las mandarinas se estaban recortando exactamente con las coordenadas entregadas por YOLOv5.
+
+Se consideró que el recorte demasiado ajustado al borde del fruto podría estar eliminando información contextual importante.
+
+Esto potencialmente podría afectar la capacidad de la red para generalizar correctamente.
+
+Prueba realizada: Padding dinámico
+Para validar esta hipótesis, se implementó un padding dinámico de recorte, que:
+
+Expandía ligeramente las coordenadas originales de YOLO.
+
+Evitaba que la mandarina quedara demasiado cerca del borde de la imagen recortada.
+
+Añadía un pequeño margen alrededor del fruto.
+
+Sin embargo, esta modificación no solucionó el problema.
+
+Causa real del error
+El problema no estaba relacionado con el recorte.
+
+La causa raíz fue que las imágenes estaban siendo enviadas a la red en formato BGR, debido a que se estaban capturando mediante OpenCV, el cual trabaja por defecto en ese formato.
+
+La red fue entrenada en formato RGB, por lo que:
+
+Al no convertir previamente BGR → RGB,
+
+La información de color se alteraba,
+
+Y el modelo respondía clasificando incorrectamente todos los casos.
+
+Una vez se implementó correctamente la conversión a RGB antes de la inferencia, el comportamiento volvió a la normalidad.
+
+Estado del padding dinámico
+El padding dinámico:
+
+Fue únicamente una estrategia experimental.
+
+No forma parte de la solución final del proyecto.
+
+No se implementó en la versión definitiva del sistema.
+
+Se mantuvo el recorte directo usando las coordenadas de YOLO, ya que el problema no estaba en esa etapa del pipeline.

@@ -1,0 +1,1573 @@
+{
+  "timestamp": "2026-06-18T00:51:54",
+  "carpetas": [
+    "E:\\Cubos_crudos\\Maduras_nuevas",
+    "E:\\Cubos_crudos\\Verdes_nuevas",
+    "E:\\Cubos_crudos\\Maduras_nuevasv2",
+    "E:\\Cubos_crudos\\Verdes_nuevasv2",
+    "E:\\Cubos_crudos\\Maduras_nuevasv3",
+    "E:\\Cubos_crudos\\Verdes_nuevasv3"
+  ],
+  "picos_esperados": [
+    312,
+    627,
+    719,
+    664,
+    682
+  ],
+  "total_cubos": 93,
+  "distribucion_picos": {
+    "719": 7,
+    "724": 9,
+    "722": 4,
+    "720": 1,
+    "627": 6,
+    "630": 13,
+    "682": 40,
+    "664": 5,
+    "662": 4,
+    "680": 2,
+    "684": 2
+  },
+  "atipicos": [
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_160508.npy",
+      "pico_idx": 724,
+      "pico_val": 9.4528,
+      "shape": [
+        1024,
+        1280,
+        2647
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_161538.npy",
+      "pico_idx": 722,
+      "pico_val": 10.9377,
+      "shape": [
+        1024,
+        1280,
+        2425
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_162001.npy",
+      "pico_idx": 720,
+      "pico_val": 11.6604,
+      "shape": [
+        1024,
+        1280,
+        2471
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_163108.npy",
+      "pico_idx": 722,
+      "pico_val": 10.8672,
+      "shape": [
+        1024,
+        1280,
+        2404
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_164635.npy",
+      "pico_idx": 724,
+      "pico_val": 10.2001,
+      "shape": [
+        1024,
+        1280,
+        2429
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150038.npy",
+      "pico_idx": 722,
+      "pico_val": 10.4561,
+      "shape": [
+        1024,
+        1280,
+        2344
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150831.npy",
+      "pico_idx": 724,
+      "pico_val": 10.153,
+      "shape": [
+        1024,
+        1280,
+        2503
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151107.npy",
+      "pico_idx": 724,
+      "pico_val": 9.8127,
+      "shape": [
+        1024,
+        1280,
+        2620
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151405.npy",
+      "pico_idx": 724,
+      "pico_val": 10.2459,
+      "shape": [
+        1024,
+        1280,
+        2377
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151636.npy",
+      "pico_idx": 724,
+      "pico_val": 10.9817,
+      "shape": [
+        1024,
+        1280,
+        2506
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_152101.npy",
+      "pico_idx": 724,
+      "pico_val": 10.531,
+      "shape": [
+        1024,
+        1280,
+        2493
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_152638.npy",
+      "pico_idx": 724,
+      "pico_val": 9.8397,
+      "shape": [
+        1024,
+        1280,
+        2897
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_153000.npy",
+      "pico_idx": 722,
+      "pico_val": 10.1004,
+      "shape": [
+        1024,
+        1280,
+        2603
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_153420.npy",
+      "pico_idx": 724,
+      "pico_val": 9.4439,
+      "shape": [
+        1024,
+        1280,
+        1153
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_094433.npy",
+      "pico_idx": 630,
+      "pico_val": 6.8906,
+      "shape": [
+        1024,
+        1280,
+        2253
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095054.npy",
+      "pico_idx": 630,
+      "pico_val": 7.9348,
+      "shape": [
+        1024,
+        1280,
+        2511
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095355.npy",
+      "pico_idx": 630,
+      "pico_val": 8.7415,
+      "shape": [
+        1024,
+        1280,
+        2335
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095607.npy",
+      "pico_idx": 630,
+      "pico_val": 7.7128,
+      "shape": [
+        1024,
+        1280,
+        2506
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_090627.npy",
+      "pico_idx": 630,
+      "pico_val": 7.6303,
+      "shape": [
+        1024,
+        1280,
+        2452
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091202.npy",
+      "pico_idx": 630,
+      "pico_val": 7.8775,
+      "shape": [
+        1024,
+        1280,
+        2351
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091540.npy",
+      "pico_idx": 630,
+      "pico_val": 8.2778,
+      "shape": [
+        1024,
+        1280,
+        2380
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091929.npy",
+      "pico_idx": 630,
+      "pico_val": 8.2549,
+      "shape": [
+        1024,
+        1280,
+        2516
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_092444.npy",
+      "pico_idx": 630,
+      "pico_val": 8.3462,
+      "shape": [
+        1024,
+        1280,
+        2557
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_092737.npy",
+      "pico_idx": 630,
+      "pico_val": 9.8561,
+      "shape": [
+        1024,
+        1280,
+        2253
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093035.npy",
+      "pico_idx": 630,
+      "pico_val": 9.4517,
+      "shape": [
+        1024,
+        1280,
+        2287
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093333.npy",
+      "pico_idx": 630,
+      "pico_val": 8.6729,
+      "shape": [
+        1024,
+        1280,
+        2367
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093558.npy",
+      "pico_idx": 630,
+      "pico_val": 9.7145,
+      "shape": [
+        1024,
+        1280,
+        1938
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_074526.npy",
+      "pico_idx": 662,
+      "pico_val": 13.3568,
+      "shape": [
+        1024,
+        1280,
+        1802
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075132.npy",
+      "pico_idx": 662,
+      "pico_val": 13.9941,
+      "shape": [
+        1024,
+        1280,
+        1832
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075352.npy",
+      "pico_idx": 662,
+      "pico_val": 12.8171,
+      "shape": [
+        1024,
+        1280,
+        1966
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075615.npy",
+      "pico_idx": 662,
+      "pico_val": 13.4833,
+      "shape": [
+        1024,
+        1280,
+        1786
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081902.npy",
+      "pico_idx": 680,
+      "pico_val": 12.9092,
+      "shape": [
+        1024,
+        1280,
+        1724
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_093311.npy",
+      "pico_idx": 680,
+      "pico_val": 12.9006,
+      "shape": [
+        1024,
+        1280,
+        1804
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100159.npy",
+      "pico_idx": 684,
+      "pico_val": 12.8273,
+      "shape": [
+        1024,
+        1280,
+        1723
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_103412.npy",
+      "pico_idx": 684,
+      "pico_val": 13.4816,
+      "shape": [
+        1024,
+        1280,
+        1925
+      ],
+      "atipico": true
+    }
+  ],
+  "errores": [],
+  "detalle": [
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_154223.npy",
+      "pico_idx": 719,
+      "pico_val": 10.5697,
+      "shape": [
+        1024,
+        1280,
+        2460
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_154500.npy",
+      "pico_idx": 719,
+      "pico_val": 9.9775,
+      "shape": [
+        1024,
+        1280,
+        2592
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_154852.npy",
+      "pico_idx": 719,
+      "pico_val": 9.9256,
+      "shape": [
+        1024,
+        1280,
+        2386
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_160508.npy",
+      "pico_idx": 724,
+      "pico_val": 9.4528,
+      "shape": [
+        1024,
+        1280,
+        2647
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_161056.npy",
+      "pico_idx": 719,
+      "pico_val": 10.1329,
+      "shape": [
+        1024,
+        1280,
+        2958
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_161538.npy",
+      "pico_idx": 722,
+      "pico_val": 10.9377,
+      "shape": [
+        1024,
+        1280,
+        2425
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_162001.npy",
+      "pico_idx": 720,
+      "pico_val": 11.6604,
+      "shape": [
+        1024,
+        1280,
+        2471
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_162438.npy",
+      "pico_idx": 719,
+      "pico_val": 11.0344,
+      "shape": [
+        1024,
+        1280,
+        2456
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_163108.npy",
+      "pico_idx": 722,
+      "pico_val": 10.8672,
+      "shape": [
+        1024,
+        1280,
+        2404
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevas",
+      "cubo": "cube_20260515_164635.npy",
+      "pico_idx": 724,
+      "pico_val": 10.2001,
+      "shape": [
+        1024,
+        1280,
+        2429
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150038.npy",
+      "pico_idx": 722,
+      "pico_val": 10.4561,
+      "shape": [
+        1024,
+        1280,
+        2344
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150309.npy",
+      "pico_idx": 719,
+      "pico_val": 9.7584,
+      "shape": [
+        1024,
+        1280,
+        2372
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150539.npy",
+      "pico_idx": 719,
+      "pico_val": 10.0131,
+      "shape": [
+        1024,
+        1280,
+        2483
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_150831.npy",
+      "pico_idx": 724,
+      "pico_val": 10.153,
+      "shape": [
+        1024,
+        1280,
+        2503
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151107.npy",
+      "pico_idx": 724,
+      "pico_val": 9.8127,
+      "shape": [
+        1024,
+        1280,
+        2620
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151405.npy",
+      "pico_idx": 724,
+      "pico_val": 10.2459,
+      "shape": [
+        1024,
+        1280,
+        2377
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_151636.npy",
+      "pico_idx": 724,
+      "pico_val": 10.9817,
+      "shape": [
+        1024,
+        1280,
+        2506
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_152101.npy",
+      "pico_idx": 724,
+      "pico_val": 10.531,
+      "shape": [
+        1024,
+        1280,
+        2493
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_152638.npy",
+      "pico_idx": 724,
+      "pico_val": 9.8397,
+      "shape": [
+        1024,
+        1280,
+        2897
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_153000.npy",
+      "pico_idx": 722,
+      "pico_val": 10.1004,
+      "shape": [
+        1024,
+        1280,
+        2603
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevas",
+      "cubo": "cube_20260515_153420.npy",
+      "pico_idx": 724,
+      "pico_val": 9.4439,
+      "shape": [
+        1024,
+        1280,
+        1153
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_085934.npy",
+      "pico_idx": 627,
+      "pico_val": 7.9213,
+      "shape": [
+        1024,
+        1280,
+        2367
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_094433.npy",
+      "pico_idx": 630,
+      "pico_val": 6.8906,
+      "shape": [
+        1024,
+        1280,
+        2253
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_094825.npy",
+      "pico_idx": 627,
+      "pico_val": 7.9249,
+      "shape": [
+        1024,
+        1280,
+        2469
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095054.npy",
+      "pico_idx": 630,
+      "pico_val": 7.9348,
+      "shape": [
+        1024,
+        1280,
+        2511
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095355.npy",
+      "pico_idx": 630,
+      "pico_val": 8.7415,
+      "shape": [
+        1024,
+        1280,
+        2335
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095607.npy",
+      "pico_idx": 630,
+      "pico_val": 7.7128,
+      "shape": [
+        1024,
+        1280,
+        2506
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv2",
+      "cubo": "cube_20260519_095821.npy",
+      "pico_idx": 627,
+      "pico_val": 7.9046,
+      "shape": [
+        1024,
+        1280,
+        1731
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_090223.npy",
+      "pico_idx": 627,
+      "pico_val": 8.7655,
+      "shape": [
+        1024,
+        1280,
+        2208
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_090627.npy",
+      "pico_idx": 630,
+      "pico_val": 7.6303,
+      "shape": [
+        1024,
+        1280,
+        2452
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_090912.npy",
+      "pico_idx": 627,
+      "pico_val": 8.6539,
+      "shape": [
+        1024,
+        1280,
+        2497
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091202.npy",
+      "pico_idx": 630,
+      "pico_val": 7.8775,
+      "shape": [
+        1024,
+        1280,
+        2351
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091540.npy",
+      "pico_idx": 630,
+      "pico_val": 8.2778,
+      "shape": [
+        1024,
+        1280,
+        2380
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_091929.npy",
+      "pico_idx": 630,
+      "pico_val": 8.2549,
+      "shape": [
+        1024,
+        1280,
+        2516
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_092444.npy",
+      "pico_idx": 630,
+      "pico_val": 8.3462,
+      "shape": [
+        1024,
+        1280,
+        2557
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_092737.npy",
+      "pico_idx": 630,
+      "pico_val": 9.8561,
+      "shape": [
+        1024,
+        1280,
+        2253
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093035.npy",
+      "pico_idx": 630,
+      "pico_val": 9.4517,
+      "shape": [
+        1024,
+        1280,
+        2287
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093333.npy",
+      "pico_idx": 630,
+      "pico_val": 8.6729,
+      "shape": [
+        1024,
+        1280,
+        2367
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093558.npy",
+      "pico_idx": 630,
+      "pico_val": 9.7145,
+      "shape": [
+        1024,
+        1280,
+        1938
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv2",
+      "cubo": "cube_20260519_093959.npy",
+      "pico_idx": 627,
+      "pico_val": 8.5082,
+      "shape": [
+        1024,
+        1280,
+        2314
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Maduras_nuevasv3",
+      "cubo": "cube_20260612_093712.npy",
+      "pico_idx": 682,
+      "pico_val": 12.8639,
+      "shape": [
+        1024,
+        1280,
+        1660
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_073518.npy",
+      "pico_idx": 664,
+      "pico_val": 12.3175,
+      "shape": [
+        1024,
+        1280,
+        2024
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_073757.npy",
+      "pico_idx": 664,
+      "pico_val": 12.0155,
+      "shape": [
+        1024,
+        1280,
+        2044
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_074037.npy",
+      "pico_idx": 664,
+      "pico_val": 10.6173,
+      "shape": [
+        1024,
+        1280,
+        2428
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_074526.npy",
+      "pico_idx": 662,
+      "pico_val": 13.3568,
+      "shape": [
+        1024,
+        1280,
+        1802
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_074727.npy",
+      "pico_idx": 664,
+      "pico_val": 12.5867,
+      "shape": [
+        1024,
+        1280,
+        1903
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_074925.npy",
+      "pico_idx": 664,
+      "pico_val": 13.2958,
+      "shape": [
+        1024,
+        1280,
+        1813
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075132.npy",
+      "pico_idx": 662,
+      "pico_val": 13.9941,
+      "shape": [
+        1024,
+        1280,
+        1832
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075352.npy",
+      "pico_idx": 662,
+      "pico_val": 12.8171,
+      "shape": [
+        1024,
+        1280,
+        1966
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075615.npy",
+      "pico_idx": 662,
+      "pico_val": 13.4833,
+      "shape": [
+        1024,
+        1280,
+        1786
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_075823.npy",
+      "pico_idx": 682,
+      "pico_val": 11.8205,
+      "shape": [
+        1024,
+        1280,
+        1733
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_080013.npy",
+      "pico_idx": 682,
+      "pico_val": 12.5302,
+      "shape": [
+        1024,
+        1280,
+        1834
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_080210.npy",
+      "pico_idx": 682,
+      "pico_val": 12.2868,
+      "shape": [
+        1024,
+        1280,
+        2067
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_080418.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2459,
+      "shape": [
+        1024,
+        1280,
+        1724
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_080637.npy",
+      "pico_idx": 682,
+      "pico_val": 12.4827,
+      "shape": [
+        1024,
+        1280,
+        1956
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_080843.npy",
+      "pico_idx": 682,
+      "pico_val": 13.3238,
+      "shape": [
+        1024,
+        1280,
+        1850
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081046.npy",
+      "pico_idx": 682,
+      "pico_val": 12.3887,
+      "shape": [
+        1024,
+        1280,
+        1783
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081228.npy",
+      "pico_idx": 682,
+      "pico_val": 12.6883,
+      "shape": [
+        1024,
+        1280,
+        1777
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081418.npy",
+      "pico_idx": 682,
+      "pico_val": 12.7556,
+      "shape": [
+        1024,
+        1280,
+        1661
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081554.npy",
+      "pico_idx": 682,
+      "pico_val": 12.7009,
+      "shape": [
+        1024,
+        1280,
+        1747
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_081902.npy",
+      "pico_idx": 680,
+      "pico_val": 12.9092,
+      "shape": [
+        1024,
+        1280,
+        1724
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_082050.npy",
+      "pico_idx": 682,
+      "pico_val": 11.9875,
+      "shape": [
+        1024,
+        1280,
+        1871
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_082321.npy",
+      "pico_idx": 682,
+      "pico_val": 13.0322,
+      "shape": [
+        1024,
+        1280,
+        1799
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_082532.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2143,
+      "shape": [
+        1024,
+        1280,
+        1770
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_082745.npy",
+      "pico_idx": 682,
+      "pico_val": 12.7347,
+      "shape": [
+        1024,
+        1280,
+        1649
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_082955.npy",
+      "pico_idx": 682,
+      "pico_val": 12.8072,
+      "shape": [
+        1024,
+        1280,
+        1758
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_083157.npy",
+      "pico_idx": 682,
+      "pico_val": 12.7263,
+      "shape": [
+        1024,
+        1280,
+        1860
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_083422.npy",
+      "pico_idx": 682,
+      "pico_val": 13.3965,
+      "shape": [
+        1024,
+        1280,
+        1754
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_083632.npy",
+      "pico_idx": 682,
+      "pico_val": 12.9668,
+      "shape": [
+        1024,
+        1280,
+        1793
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_083824.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2682,
+      "shape": [
+        1024,
+        1280,
+        1790
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_084006.npy",
+      "pico_idx": 682,
+      "pico_val": 12.8771,
+      "shape": [
+        1024,
+        1280,
+        1829
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_084200.npy",
+      "pico_idx": 682,
+      "pico_val": 12.6652,
+      "shape": [
+        1024,
+        1280,
+        1791
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_084355.npy",
+      "pico_idx": 682,
+      "pico_val": 12.135,
+      "shape": [
+        1024,
+        1280,
+        1768
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_093311.npy",
+      "pico_idx": 680,
+      "pico_val": 12.9006,
+      "shape": [
+        1024,
+        1280,
+        1804
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100159.npy",
+      "pico_idx": 684,
+      "pico_val": 12.8273,
+      "shape": [
+        1024,
+        1280,
+        1723
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100402.npy",
+      "pico_idx": 682,
+      "pico_val": 13.7122,
+      "shape": [
+        1024,
+        1280,
+        1798
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100605.npy",
+      "pico_idx": 682,
+      "pico_val": 13.564,
+      "shape": [
+        1024,
+        1280,
+        1517
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100747.npy",
+      "pico_idx": 682,
+      "pico_val": 13.4972,
+      "shape": [
+        1024,
+        1280,
+        1812
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_100958.npy",
+      "pico_idx": 682,
+      "pico_val": 12.7215,
+      "shape": [
+        1024,
+        1280,
+        1777
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_101210.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2583,
+      "shape": [
+        1024,
+        1280,
+        1746
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_101400.npy",
+      "pico_idx": 682,
+      "pico_val": 14.1456,
+      "shape": [
+        1024,
+        1280,
+        1616
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_101543.npy",
+      "pico_idx": 682,
+      "pico_val": 12.4623,
+      "shape": [
+        1024,
+        1280,
+        1887
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_101809.npy",
+      "pico_idx": 682,
+      "pico_val": 12.61,
+      "shape": [
+        1024,
+        1280,
+        1817
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_102021.npy",
+      "pico_idx": 682,
+      "pico_val": 12.9562,
+      "shape": [
+        1024,
+        1280,
+        1631
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_102158.npy",
+      "pico_idx": 682,
+      "pico_val": 14.6365,
+      "shape": [
+        1024,
+        1280,
+        1750
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_102343.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2662,
+      "shape": [
+        1024,
+        1280,
+        1716
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_102546.npy",
+      "pico_idx": 682,
+      "pico_val": 13.2327,
+      "shape": [
+        1024,
+        1280,
+        1691
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_102955.npy",
+      "pico_idx": 682,
+      "pico_val": 12.8402,
+      "shape": [
+        1024,
+        1280,
+        1668
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_103151.npy",
+      "pico_idx": 682,
+      "pico_val": 14.1478,
+      "shape": [
+        1024,
+        1280,
+        1898
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_103412.npy",
+      "pico_idx": 684,
+      "pico_val": 13.4816,
+      "shape": [
+        1024,
+        1280,
+        1925
+      ],
+      "atipico": true
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_103613.npy",
+      "pico_idx": 682,
+      "pico_val": 13.5001,
+      "shape": [
+        1024,
+        1280,
+        1728
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_103811.npy",
+      "pico_idx": 682,
+      "pico_val": 13.073,
+      "shape": [
+        1024,
+        1280,
+        2124
+      ],
+      "atipico": false
+    },
+    {
+      "carpeta": "E:\\Cubos_crudos\\Verdes_nuevasv3",
+      "cubo": "cube_20260612_104119.npy",
+      "pico_idx": 682,
+      "pico_val": 12.8704,
+      "shape": [
+        1024,
+        1280,
+        1525
+      ],
+      "atipico": false
+    }
+  ]
+}

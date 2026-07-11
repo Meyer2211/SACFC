@@ -1,0 +1,49 @@
+Validación del Pipeline de Detección y Clasificación
+Flujo de procesamiento
+Las imágenes presentadas en este repositorio fueron obtenidas mediante el siguiente pipeline:
+
+Detección:
+Se utiliza YOLOv5 para detectar y localizar cada mandarina en la imagen capturada por la cámara del PC.
+
+Recorte (ROI extraction):
+A partir de las coordenadas generadas por YOLO, se recorta automáticamente la región correspondiente a cada mandarina.
+
+Clasificación de calidad:
+La imagen recortada se envía a una red neuronal entrenada en TensorFlow, la cual determina si la mandarina es:
+
+Buena
+
+Mala
+
+En los ejemplos mostrados, todas las clasificaciones fueron correctas y coherentes con lo esperado.
+
+Sobre el color azul en las imágenes guardadas
+Las mandarinas en las imágenes de prueba se observan con tonalidad azulada. Esto ocurre porque:
+
+OpenCV trabaja por defecto en formato BGR
+
+La red neuronal fue entrenada y opera en formato RGB
+
+Antes de enviar cada imagen a la red, se realiza correctamente la conversión de BGR → RGB, por lo que la clasificación se ejecuta con los colores adecuados (naranja real).
+
+Sin embargo, en la línea de código utilizada para guardar las imágenes de prueba no se aplicó esta conversión, por lo que los archivos almacenados permanecieron en formato BGR, generando el efecto visual azul.
+
+Esto es únicamente un efecto visual en los archivos guardados y no afecta el desempeño del modelo.
+
+Imagen sin etiqueta
+La mandarina mostrada sin etiqueta corresponde a una prueba realizada cuando las imágenes se estaban enviando incorrectamente en formato BGR directamente a la red, sin conversión a RGB.
+
+En ese momento:
+
+La red recibía información de color incorrecta.
+
+El comportamiento no era el esperado.
+
+Este problema fue identificado y corregido posteriormente mediante la conversión explícita a RGB antes de la inferencia.
+
+Estado actual
+Conversión BGR → RGB implementada antes de la clasificación.
+
+Detección y recorte funcionando correctamente.
+
+Clasificación coherente con los resultados esperados.
